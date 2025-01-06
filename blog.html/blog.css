@@ -1,0 +1,183 @@
+.header{
+    background-image: url(/resources/Banner\ Image.png);
+    color: white;
+        height: 700px;
+        background-repeat: no-repeat;
+    background-position:top center  ;
+}
+.Happy{
+    text-align: center;
+   padding: 200px;
+   font-size: 30px;
+
+}
+.main{
+    color: rgb(238, 46, 12);
+    text-align: center;
+}
+.div{
+    text-align: center;
+}
+.div2{
+   
+    width: 410px;
+    height: 58px;
+    margin-left: 450px;
+}
+.banner{
+    
+    margin-top: 500px;
+   
+    height: 600px;
+    /* padding: 20px; */
+    color: white;
+    background-image: url(/resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    justify-content: space-between;
+    display: flex;
+    padding: 30px 30px 0px 150px;
+}
+.my{
+    width: 450px;
+    height: 464px;
+    margin-right: 290px;
+    margin-top: 50px;
+}
+.hi{
+    margin-top: 150px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.span{
+    color: #ff0000;
+    margin-bottom: 90px;
+} 
+#ki{
+    color: white;
+    background-color: #ff0000;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}  
+.bi{
+    text-align: center;
+    margin-top: 50px;
+    padding: 30px;
+    background: linear-gradient(rgba(247, 101, 101, 0.7), rgba(248, 248, 248, 0.7)), url("/resources/Rectangle 2.png");
+   
+    background-position: center;
+    width: 1260px;
+    margin-left: 200px;
+    border-radius: 30px;
+   
+} 
+.pi{
+    margin-top: 9px;
+}
+.lal{
+    color: red;
+}
+.d3{
+ border: 10px solid red;
+    border-radius: 50%;
+    width: 360px;
+    padding: 20px;
+}
+.t1{
+    display: flex;
+    justify-content: space-between;
+    width: 1300px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.Holidays {
+    text-align: center;
+    margin-top: 50px;
+}
+.box{
+    background-image: url(/resources/Rectangle\ 2.png),url(/resources/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-position: bottom,top right;
+    padding-left: 62px;
+    width: 1260px;
+    margin: 0 auto;
+    
+}
+.boro{
+    width : 657px;
+    height: 577px;
+}
+.coto{
+    width: 220px;
+    height: 220px;
+    margin-bottom: 330px;
+    
+    
+}
+.BEST{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.cobi{
+    margin-left: 200px;
+
+}
+.sub{
+    
+    margin-top: 200px;
+    background-color: #ff000014;
+    text-align: center;
+    padding: 30px;
+    width: 1260px;
+    margin-left: 200px; 
+
+} 
+.la{
+    color: white;
+    background-color: #ff0000;
+    border: none;
+    margin-left: 0px;
+    padding: 10px 20px;
+    border-radius: 0px 10px 10px 0px;
+}  
+.bo{
+    margin-right: -5px;
+    padding: 10px 20px;
+    border-radius: 10px 0px 0px 10px;
+    border: none;
+}
+.f{
+    color: white;
+    margin-left: 200px;
+}
+.footer{
+    background-color: black;
+    padding: 30px;
+    margin-top: 100px;
+}
+.sada{
+    color: white;
+}
+.d{
+    color: white;
+    
+    
+}
+.f{
+  
+   display: flex;
+}
+
+.bol{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.img4{
+    text-align: center;
+}
+
+
+
+
